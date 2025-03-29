@@ -4,7 +4,6 @@
 #
 #    pip-compile
 #
-python_version == 3.7
 numpy==1.20
     # via
     #   -r requirements.in
