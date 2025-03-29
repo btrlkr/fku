@@ -11,4 +11,4 @@ numpy==1.20
     #   matplotlib
     #   pandas
     #   seaborn
-scikit-surprise==1.1.14
+scikit-surprise
